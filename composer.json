@@ -1,5 +1,5 @@
 {
-    "name": "jean-remiLapierre/html-to-shopify-rich-text",
+    "name": "jean-remilapierre/html-to-shopify-rich-text",
     "description": "A PHP library to convert HTML to Shopify's Rich Text format",
     "type": "library",
     "license": "MIT",
