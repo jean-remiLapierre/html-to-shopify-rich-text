@@ -2,7 +2,7 @@
     "name": "jean-remiLapierre/html-to-shopify-rich-text",
     "description": "A PHP library to convert HTML to Shopify's Rich Text format",
     "type": "library",
-    "version": "1.0.2",
+    "version": "1.0.2.1",
     "license": "MIT",
     "require": {
         "php": "^8.3",
