@@ -9,8 +9,8 @@
         "ext-dom": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "symfony/dom-crawler": "^7.2",
-        "symfony/css-selector": "^7.2",
+        "symfony/dom-crawler": "^7.2 || ^8.0",
+        "symfony/css-selector": "^7.2 || ^8.0",
         "ezyang/htmlpurifier": "^4.16"
     },
     "require-dev": {
