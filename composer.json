@@ -1,5 +1,5 @@
 {
-    "name": "webfoo/html-to-shopify-rich-text",
+    "name": "jea-remiLapierre/html-to-shopify-rich-text",
     "description": "A PHP library to convert HTML to Shopify's Rich Text format",
     "type": "library",
     "version": "1.0.2",
